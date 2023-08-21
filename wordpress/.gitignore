@@ -1,0 +1,6 @@
+# dependencies
+/wp-content/cache/
+package-lock.json
+
+# Uploads
+wp-content/uploads/*
