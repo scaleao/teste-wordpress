@@ -1,0 +1,158 @@
+{
+	"paging": {
+		"total": 53,
+		"page": 1,
+		"offset": 0,
+		"limit": 30,
+		"maxLimit": 50
+	},
+	"sort": [
+		{
+			"id": "asc"
+		}
+	],
+	"availableFilters": [
+		"id",
+		"name",
+		"category_id",
+		"ean",
+		"available",
+		"available_in_store",
+		"price",
+		"brand",
+		"model",
+		"hot",
+		"quantity_sold",
+	],
+	"appliedFilters": [],
+	"Products": [
+		{
+			"Product": {
+				"payment_option_html": "<br \/>\r\n               <span class='txt-corparcelas'>\r\n                                    <span class='txt-corparcelas'>\r\n                                        <span class='preco-parc2'> ou\r\n                                            <strong class='color'> 12<span>x<\/span><\/strong>\r\n                                        <\/span>\r\n                                    <\/span>\r\n                                <\/span>\r\n               <span class='preco-de'> de <\/span>\r\n                <span class='txt-cadaparcelas'>\r\n                                    <strong class='preco-parc2'>R$\r\n                                        <span>\r\n                                            <span>15<span>,<span>49<\/span><\/span><\/span>\r\n                                        <\/span>\r\n                                    <\/strong>\r\n                                <\/span>\r\n               \r\n               <span class='operadora'> com juros <\/span>\r\n               <span class='txt-forma-pagamento'>Cart&atilde;o Amex - Yapay<\/span>\r\n               <!-- 12|15.49|{lower_price}|114 -->",
+				"metatag": [],
+				"activation_date": "2021-10-19",
+				"release": "0",
+				"available": "0",
+				"has_variation": "0",
+				"deactivation_date": "2021-10-19",
+				"price": "195.82",
+				"model": "",
+				"id": "1",
+				"brand": "",
+				"slug": "categoria-5\/sub-3\/sub-da-sub-1\/produto-de-teste",
+				"available_in_store": "0",
+				"created": "2021-10-11 14:54:03",
+				"available_for_purchase": "0",
+				"AdditionalInfos": [],
+				"brand_id": "",
+				"Variant": [],
+				"release_date": "2021-10-11",
+				"kit_has_variation": "0",
+				"name": "Produto de teste",
+				"id_campaign": "",
+				"ProductImage": [
+					{
+						"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg",
+						"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg",
+						"thumbs": {
+							"30": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg"
+							},
+							"90": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg"
+							},
+							"180": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_1_fe038e780b2f1e8f82b6c9a771068b94_20211019091741.jpg"
+							}
+						}
+					},
+					{
+						"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg",
+						"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg",
+						"thumbs": {
+							"30": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg"
+							},
+							"90": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg"
+							},
+							"180": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_2_c10aaa6160a44647d3ab7c94c5c31667_20211019091742.jpg"
+							}
+						}
+					},
+					{
+						"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg",
+						"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg",
+						"thumbs": {
+							"30": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg"
+							},
+							"90": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg"
+							},
+							"180": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_3_6869578f30e160c708dfd15c46a96a38_20211019091743.jpg"
+							}
+						}
+					},
+					{
+						"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg",
+						"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg",
+						"thumbs": {
+							"30": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/30_produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg"
+							},
+							"90": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/90_produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg"
+							},
+							"180": {
+								"http": "http:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg",
+								"https": "https:\/\/images.tcdn.com.br\/img\/img_prod\/966225\/180_produto_de_teste_1_4_6678d5b6d7167f0418b644480582a4c2_20211019091744.jpg"
+							}
+						}
+					}
+				],
+				"availability": "",
+				"video": "",
+				"hot": "0",
+				"Properties": [],
+				"payment_option_details": [
+					{
+						"display_name": "Cart?o Amex - Vindi",
+						"type": "credit_card",
+						"plots": "12",
+						"value": "15.49",
+						"tax": "1.99"
+					}
+				],
+				"ean": "",
+				"related_categories": [],
+				"category_id": "37",
+				"upon_request": "0",
+				"ncm": "",
+				"payment_option": "ou 12x de R$ 15,49 com juros Cart&atilde;o Amex - Yapay",
+				"url": {
+					"http": "http:\/\/demo-go-fashion.commercesuite.com.br\/categoria-5\/sub-3\/sub-da-sub-1\/produto-de-teste",
+					"https": "https:\/\/demo-go-fashion.commercesuite.com.br\/categoria-5\/sub-3\/sub-da-sub-1\/produto-de-teste"
+				},
+				"is_kit": "0",
+				"additional_button": "0",
+				"virtual_product": "",
+				"promotional_price": "150.00",
+				"deactivation_status_history": ""
+			}
+		}
+	]
+}
