@@ -1,4 +1,5 @@
 # dependencies
+/node_modules/
 /wp-content/cache/
 package-lock.json
 
